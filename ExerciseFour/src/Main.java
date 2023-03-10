@@ -41,9 +41,9 @@ public class Main {
     private static void exercise2() {
         System.out.println("\nExercise 2:");
         double number2= 3.4;
-        double newNumber2= number2/2;
         number2*=2;
         System.out.println(number2);
+        double newNumber2= number2/2;
         System.out.println(newNumber2);
     }
 
